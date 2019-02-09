@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MasonDobbs/Liri-Bot/issues"
   },
-  "homepage": "https://github.com/MasonDobbs/Liri-Bot#readme"
+  "homepage": "https://github.com/MasonDobbs/Liri-Bot#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
 }
